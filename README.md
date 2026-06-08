@@ -1,4 +1,4 @@
-# Image Classification: The Simpsons Characters
+# Image Classification
 
 Multiclass classification (42 classes) using CNN and ResNet18 fine-tuning.  
 Dataset: [Kaggle — journey-springfield](https://www.kaggle.com/competitions/journey-springfield). Metric: F1-score.
